@@ -26,8 +26,8 @@ Estoy abierto a colaborar en proyectos de **Machine Learning, NLP y Ciencia de D
 Si tienes una idea o necesitas ayuda en algo, ¡hablemos! 😃  
 
 📩 **Contáctame en:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-máñez-poveda-121516251/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor04manez@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/víctor-máñez-poveda-121516251/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (mailto:victor04manez@gmail.com)  
 
 ⚡ **Dato curioso:**  
 Aprendí más sobre IA jugando con chatbots y experimentando con modelos NLP que con libros. 🚀  
