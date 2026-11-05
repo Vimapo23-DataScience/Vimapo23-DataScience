@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=V%C3%ADctor%20M%C3%A1%C3%B1ez%20Poveda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%26%20Computer%20Engineering%20%40%20UPV&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="header.svg" width="100%" alt="header"/>
 
 <a href="https://github.com/Vimapo23-DataScience">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=50&lines=I+prefer+to+DO+rather+than+to+say+%F0%9F%9A%80;Machine+Learning+%7C+Data+Science+%F0%9F%93%8A;RAG+%7C+LLMs+%7C+Explainable+AI+%F0%9F%A4%96;Quantum+ML+for+healthcare+%F0%9F%AB%81;If+there%27s+no+way%2C+we+find+one+%F0%9F%92%AA" alt="Typing animation"/>
@@ -116,16 +116,11 @@ I'm a person who prefers to **do** rather than to say. If there's no way to do i
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vimapo23-DataScience&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimapo23-DataScience&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vimapo23-DataScience&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimapo23-DataScience&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
+![Followers](https://img.shields.io/github/followers/Vimapo23-DataScience?style=for-the-badge&logo=github&color=2f81f7)
 
 </div>
 
@@ -151,6 +146,6 @@ Feel free to check my repositories, connect, or collaborate. 🤝
 
 *"The most amazing creations in this world seem to be impossible until, you do it 😉"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
+<img src="footer.svg" width="100%" alt="footer"/>
 
 </div>
