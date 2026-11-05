@@ -3,7 +3,7 @@
 **Profession:** Data Scientist Student  
 **Top Skills:** Python, SQL, R, Machine Learning, Data Visualization  
 **Style:** Energetic & Proactive 🚀
-
+**Languages:** English, Spanish and Valencian (Native), Italiano and bit Portuguese
 ---
 
 ## 🌟 About Me
