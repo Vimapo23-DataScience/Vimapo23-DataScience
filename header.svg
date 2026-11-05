@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a6b"/>
+      <stop offset="1" stop-color="#5b2a86"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <circle cx="150" cy="60" r="70" fill="#ffffff" opacity="0.06">
+    <animate attributeName="cy" values="60;90;60" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="170" r="90" fill="#ffffff" opacity="0.05">
+    <animate attributeName="cy" values="170;140;170" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="40" r="40" fill="#2f81f7" opacity="0.15">
+    <animate attributeName="cx" values="820;860;820" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="330" cy="180" r="50" fill="#a371f7" opacity="0.12">
+    <animate attributeName="cx" values="330;290;330" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">
+    Víctor Máñez Poveda
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="600" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#cfe3ff">
+    Data Science &amp; Computer Engineering @ UPV
+    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>
