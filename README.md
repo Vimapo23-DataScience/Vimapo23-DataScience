@@ -1,18 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Víctor Máñez Poveda
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=V%C3%ADctor%20M%C3%A1%C3%B1ez%20Poveda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%26%20Computer%20Engineering%20%40%20UPV&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-### 📊 Data Science & Computer Engineering Student @ UPV
+<a href="https://github.com/Vimapo23-DataScience">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=50&lines=I+prefer+to+DO+rather+than+to+say+%F0%9F%9A%80;Machine+Learning+%7C+Data+Science+%F0%9F%93%8A;RAG+%7C+LLMs+%7C+Explainable+AI+%F0%9F%A4%96;Quantum+ML+for+healthcare+%F0%9F%AB%81;If+there%27s+no+way%2C+we+find+one+%F0%9F%92%AA" alt="Typing animation"/>
+</a>
 
-*"The most amazing creations in this world seem to be impossible until, you do it 😉"*
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-máñez-poveda-121516251)
+![Profile views](https://komarev.com/ghpvc/?username=Vimapo23-DataScience&label=Profile%20views&color=2f81f7&style=for-the-badge)
 
 </div>
 
@@ -20,9 +24,10 @@
 
 ## 🌟 About Me
 
-I'm a person who prefers to **do** rather than to say. If there's no way to do it, we find one. 🚀
+I'm a person who prefers to **do** rather than to say. If there's no way to do it, we find one.
 
-- 🎓 4th-year student of Computer Engineering & Data Science at **UPV** (Valencia)
+- 🎓 4th-year student of **Computer Engineering & Data Science** at UPV (Valencia)
+- 🔭 Working on my final degree project: predicting **volatility from financial news** to manage portfolio risk
 - 🗣️ **Languages:** Spanish, Valencian (native) · English · Italiano · a bit of Portuguese
 - 🌱 Always learning, always exploring, always building
 
@@ -30,7 +35,12 @@ I'm a person who prefers to **do** rather than to say. If there's no way to do i
 
 ## 🔥 Featured Projects
 
-### 🤖 AI & Language Models
+> 👇 Click on each area to open it
+
+<details open>
+<summary><b>🤖 AI & Language Models</b></summary>
+
+<br/>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -38,7 +48,12 @@ I'm a person who prefers to **do** rather than to say. If there's no way to do i
 | ✍️ [**PROMPTIN**](https://github.com/Vimapo23-DataScience/PROMPTIN) | AI tool that helps write better prompts and get good results on the first try | Python, LLMs |
 | 🔍 [**EDM-XAI-3**](https://github.com/ogarmar/EDM-XAI-3) | Explainable AI (XAI) analysis on bike-sharing and house-price datasets | R, R Markdown |
 
-### 💰 Finance & Economics
+</details>
+
+<details open>
+<summary><b>💰 Finance & Economics</b></summary>
+
+<br/>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -46,7 +61,12 @@ I'm a person who prefers to **do** rather than to say. If there's no way to do i
 | 📈 [**OPT – Metaheuristics**](https://github.com/Vimapo23-DataScience/OPT---Metaheuristics) | Portfolio optimization with hybrid PSO metaheuristics | Python, PSO |
 | 💳 **Credit Card Fraud Detection** | Fraud detection model on imbalanced data | LightGBM, Plotly, Google Colab |
 
-### 🏥 Healthcare & Biomedical
+</details>
+
+<details>
+<summary><b>🏥 Healthcare & Biomedical</b></summary>
+
+<br/>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -55,7 +75,12 @@ I'm a person who prefers to **do** rather than to say. If there's no way to do i
 | ⚡ **Epilepsy Detection with EEG** | Seizure detection from EEG signals (CHB-MIT). Best model: Gradient Boosted Trees, F1 ≈ 0.75–0.80 | Python, tree-based classifiers |
 | 🧬 **scRNA-seq Clustering** | Clustering of single-cell RNA data | DBSCAN |
 
-### ⚙️ Big Data & Analytics
+</details>
+
+<details>
+<summary><b>⚙️ Big Data & Analytics</b></summary>
+
+<br/>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -64,9 +89,16 @@ I'm a person who prefers to **do** rather than to say. If there's no way to do i
 | 🏛️ **UPV Subsidies Analysis** | Data analysis project using Agile / Scrum | Python, Scrum |
 | 📊 **Tableau Dashboards** | Early analytics coursework with visual dashboards | Tableau |
 
+</details>
+
 ---
 
-## 📈 Skills & Technologies
+## 🧰 Skills & Technologies
+
+<details open>
+<summary><b>Open the toolbox</b></summary>
+
+<br/>
 
 | Area | Technologies |
 |---|---|
@@ -76,16 +108,49 @@ I'm a person who prefers to **do** rather than to say. If there's no way to do i
 | 📊 **Data Visualization** | Plotly · Tableau · Matplotlib |
 | ☁️ **Tools** | Google Colab · Ray · Git |
 
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vimapo23-DataScience&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimapo23-DataScience&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vimapo23-DataScience&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimapo23-DataScience&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vimapo23-DataScience/Vimapo23-DataScience/output/github-snake.svg" alt="Snake animation"/>
+
+</div>
+
 ---
 
 ## 📫 Let's Connect
 
 Feel free to check my repositories, connect, or collaborate. 🤝
 
-[LinkedIn](https://www.linkedin.com/in/víctor-máñez-poveda-121516251)
-
 <div align="center">
 
-⭐ *Thanks for visiting my profile!* ⭐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-máñez-poveda-121516251)
+
+*"The most amazing creations in this world seem to be impossible until, you do it 😉"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
